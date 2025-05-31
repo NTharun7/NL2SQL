@@ -3,10 +3,10 @@ import ollama
 import psycopg2
 
 # === PostgreSQL Connection Details ===
-DB_NAME = "users"
+DB_NAME = "sers"
 DB_USER = "THARUN"
 DB_PASSWORD = "Tharun@"
-DB_HOST = "localhost"
+DB_HOST = "localho"
 DB_PORT = "5432"
 
 # === Generate SQL from Natural Language Query ===
