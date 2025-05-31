@@ -4,8 +4,8 @@ import psycopg2
 
 # === PostgreSQL Connection Details ===
 DB_NAME = "sers"
-DB_USER = "Prakash"
-DB_PASSWORD = "Tharun@"
+DB_USER = ""
+DB_PASSWORD = ""
 DB_HOST = "localho"
 DB_PORT = "5432"
 
