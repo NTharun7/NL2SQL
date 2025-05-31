@@ -3,7 +3,7 @@ import ollama
 import psycopg2
 
 # === PostgreSQL Connection Details ===
-DB_NAME = "sers"
+DB_NAME = "users"
 DB_USER = ""
 DB_PASSWORD = ""
 DB_HOST = "localho"
